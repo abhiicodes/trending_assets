@@ -12,7 +12,7 @@ export const Card = (props: { data: dataInterface }) => {
       </div>
       <div className="bg-[#1b1f34] text-white p-8 mt-14 pt-24 w-fit rounded-3xl">
         <p className="text-sm text-[#606794] text-center">{name}</p>
-        <div className="flex bg-[#14172b] px-5 py-2 w-52 rounded-full mt-4 mb-2">
+        <div className="flex bg-[#14172b] px-5 py-2 w-56 rounded-full mt-4 mb-2">
           <p className="m-auto">{price}</p>
           {change[0] == "+" ? (
             <p className="text-[#02e897]">{change}</p>
