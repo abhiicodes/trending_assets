@@ -7,7 +7,7 @@ export const Main = () => {
       <div className="flex items-center mb-10">
         <img
           className="h-8"
-          src="https://thenounproject.com/api/private/icons/1571615/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23C462DD&foregroundOpacity=1&imageFormat=png&rotation=0&token=gAAAAABjvBcEldxnGm1yYzfD0dBiWyCLLsxC2mkn4Xd6LEH680FMX0GbNqgSUaVFk-64v7kKg6CciMVjB-jaAtGbxd0ErWQC1Q%3D%3D"
+          src="https://res.cloudinary.com/dyocvbqbf/image/upload/v1673272110/Manuals/download_gowwsq.png"
         />
         <p className="text-white">Trending Assets</p>
       </div>
