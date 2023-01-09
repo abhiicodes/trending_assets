@@ -1,7 +1,7 @@
+import { Main } from "./Components/Main";
+
 function App() {
-  return (
-    <h1>Trending Assets</h1>
-  );
+  return <Main />;
 }
 
 export default App;
