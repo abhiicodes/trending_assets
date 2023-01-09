@@ -1,11 +1,13 @@
-export const data: {
+export type dataInterface = {
   icon: string;
   name: string;
   price: string;
   change: string;
   tvl: string;
   pairs: string[];
-}[] = [
+};
+
+export const data: dataInterface[] = [
   {
     icon: "https://cryptologos.cc/logos/bitcoin-sv-bsv-logo.png?v=024",
     name: "Bitcoin [BTC]",
